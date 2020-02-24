@@ -9,7 +9,7 @@ you can choose if execute it with fullscreen
 or not, and also you can choose a mods to
 launch. 
 also sorry not sure if i will upload source code even if the desc
-says it has desc, but it says "the file is empty" when i do it, so
+says it has source, but it says "the file is empty" when i do it, so
 ill try to fix it
 
 # enjoy
